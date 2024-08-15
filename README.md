@@ -26,3 +26,6 @@ This project is an e-commerce website frontend built using HTML, CSS, and JavaSc
 
 
 3. Open the index.html file in your web browser to view the website locally.
+
+### Images
+![Home Page](images/home.png)
